@@ -6,7 +6,7 @@ const Login = () => {
   return (
     <div className="login">
       <img
-        src="/logo.png"
+        src="/login-logo.svg"
         alt="logo"
         height={200}
         width={200}
